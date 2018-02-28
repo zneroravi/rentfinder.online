@@ -1,0 +1,74 @@
+.blk-clr{
+}
+
+nav.navbar.navbar-inverse.round_edges{
+  border-radius:0px;
+}
+
+.big{
+  font-size:25px;
+  color:white;
+}
+
+li.list-group-item.item1{
+  background-color:#007aa5;
+}
+
+
+
+.item2{
+  font-size:20.5px;
+
+  color:black;
+}
+
+.hove:hover{
+  color:#337ab7;
+background-color:rgb(217,237,247);
+}
+btn-up{
+  margin-top:5px;
+}
+
+.xs-big{
+  font-size:17px;
+}
+
+nav.navbar.navbar-inverse.round_edges{
+  background-image:none;
+  background-color: #081023;
+}
+.top-sh{
+
+  margin-top:50px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: #292c2f;
+  color:white;
+}
+
+div.well.cust_well_admin{
+  background-image:none;
+  background-color:#003f54;
+  color:white;
+  text-align:center;
+}
+
+i.fa.fa-user.ico-big{
+  font-size:42px;
+}
+
+.color_href{
+  color: #93dddb;
+}
+
+.color_href:hover{
+  color: #002d47;
+}
+.top-more{
+  margin-top:80px;
+}
+.colcust_name{
+  margin-top: 50px;
+}
+
