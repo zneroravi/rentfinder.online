@@ -1,0 +1,109 @@
+.re{
+  width:100%;
+  margin-left:0px;
+}
+
+div.jumbotron.cust_jumbo{
+  padding-left:10px;
+  background-color:rgb(227,237,245);
+}
+
+h1.cust_name{
+}
+
+p.cust_type{
+}
+
+span.span_1{
+  display:inline-block;
+  margin-right:20px;
+}
+
+span.span_2{
+  display:inline-block;
+  margin-right:20px;
+}
+
+div.col-md-12.cust_img_col{
+}
+
+img.img_cust{
+  text-align:center;
+}
+
+.cust_col{
+  text-align:right;
+}
+
+.r_row{
+  margin-top:0px;
+}
+
+h1.cust_name{
+  font-size:50px;
+}
+
+img.img_cust{
+  width:120px;
+}
+
+div.table-responsive.tab_cust{
+  border-radius:5px;
+}
+
+thead.cust_tab_header{
+  background-color:rgb(45,45,45);
+  color:white;
+}
+
+td{
+}
+
+footer.fo{
+}
+
+.cust_day{
+  margin-top:40px;
+}
+div.jumbotron.cust_jumbo{
+  background-image:url(../img/city_bg.jpg);
+  background-position: 20% 25%; 
+
+}
+div.form-group.submit_grp{
+  text-align:center;
+
+}
+
+button.btn.btn-info.btn-lg.btn_submit{
+  width:300px;
+}
+
+
+.chk_cust {
+  display: inline-block;
+  
+}
+
+h1.text-center.t_white{
+  color:white;
+  font-size:60px;
+}
+
+p.text-center.t_par{
+  color:white;
+  font-size:16px;
+}
+
+div.container.ctn_cust{
+  width:78%;
+  margin-bottom: 50px;
+}
+
+.btn_s{
+  margin-top: -1px; 
+  height:48px;
+}
+.jumb_cust{
+  margin-top: 50px;
+}
